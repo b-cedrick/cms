@@ -1,0 +1,8 @@
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+
+.idea
+node_modules
+build
